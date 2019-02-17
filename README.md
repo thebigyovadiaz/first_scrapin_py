@@ -1,2 +1,8 @@
-# first_scrapin_py
-Creación como parte del aprendizaje de Scrapin con Python en la busqueda de Matemáticos populares apuntando a una web referente al mismo tema.
+# Instalación - Ejecución
+- Verificar que se tenga python 3 intalado, sino realizar la instalación respectiva.
+- Realizar la instalación de python3-pip para descargar las dependencias de 
+librerias a utilizar.
+- Luego se debe descargar con el manejador de dependencia Requests y BeautifulSoup 
+- Hacer el clonado del proyecto
+- Posicionarse en la carpeta del proyecto
+- Ejecutar `python3 mathematicians.py` en la terminal.
